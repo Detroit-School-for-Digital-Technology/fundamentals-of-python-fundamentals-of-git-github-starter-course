@@ -1,0 +1,2 @@
+When you select Calculate Grade, the code will automatically check all the tasks within the assignments and provide you with an estimated grade. Please note that the current grade will not update automatically when you make changes to your code. To obtain the most UpToDate current grade, remember to select Calculate Grade every time you wish to check your grade. To submit the assignment, simply select the Submit button when you're satisfied with your current grade.
+
